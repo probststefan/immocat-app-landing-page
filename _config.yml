@@ -43,12 +43,12 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Echtzeit-Benachrichtigungen
-    description                           : Neue Wohnung online? Du wirst sofort informiert.
+    description                           : Du erhältst sofort eine Benachrichtigung, sobald eine neue Wohnung online ist.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Höhere Erfolgschancen
-    description                           : Im angespannten Wohnungsmarkt macht Schnelligkeit den Unterschied. Deine Bewerbung muss in den ersten Minuten ankommen.
-    fontawesome_icon_name                 : play-circle
+    description                           : Im angespannten Wohnungsmarkt macht Schnelligkeit den Unterschied. Deine Bewerbung muss direkt ankommen.
+    fontawesome_icon_name                 : trophy
 
 
 
