@@ -38,16 +38,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Durchsucht alle Portal
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Durchsucht die eingängigen Portale
+    description                           : Nur einmal suchen – Immocat findet für dich auf allen Portalen die passenden Wohnungen.
     fontawesome_icon_name                 : magic
     
   - title                                 : Echtzeit-Benachrichtigungen
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : Neue Wohnung online? Du wirst sofort informiert.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Höhere Erfolgschancen
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Im angespannten Wohnungsmarkt macht Schnelligkeit den Unterschied. Deine Bewerbung muss in den ersten Minuten ankommen.
     fontawesome_icon_name                 : play-circle
 
 
